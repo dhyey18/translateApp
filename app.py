@@ -116,7 +116,7 @@ def process_translation(api_key, uploaded_file):
 
 # ================= UI LAYOUT =================
 
-st.title("✨ Handwritten Notes Translator (Gemini 2.5)")
+st.title("✨ Dhyey's Handwritten Notes Translator")
 st.markdown("Upload a PDF of handwritten notes and convert them to a clean, formatted English PDF.")
 
 # Sidebar for Configuration
