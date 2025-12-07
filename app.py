@@ -117,7 +117,7 @@ def process_translation(api_key, uploaded_file):
 # ================= UI LAYOUT =================
 
 st.title("✨ Dhyey's Handwritten Notes Translator")
-st.markdown("Specially designed and developed just for my lovely Sasu Ji :)")
+st.markdown("Thoughtfully designed and carefully developed with love especially for my young and beautifull Sasu Ji :)")
 st.markdown("Upload a PDF of handwritten notes and convert them to a clean, formatted English PDF.")
 
 
